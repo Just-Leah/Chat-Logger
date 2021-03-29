@@ -1,7 +1,8 @@
 # Chat-Logger
+
 A python script to separate chat in a Minecraft log
 
-## Requirements:
+## Requirements
 
 - Minecraft (duh)
 - Python (any version, should probably get the latest one to not cause problems)
